@@ -1,7 +1,7 @@
 window.addEventListener("load", () => {
     const url = "https://api.darksky.net/forecast"
 
-    const apikey = 'd41c553c51c7d8f64cceb2cf594436b5'
+    const apikey = ''
 
     console.log(apikey)
 
